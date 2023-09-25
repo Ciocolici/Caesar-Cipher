@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2+j15hU2Ypx3QNAym6z4PX2UKIMgWdyVQHGkPV848RXf0534ZMW1GO1rPMNKc9y3HjT9BZV430bxwalyWdtNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\Caesar Cryptography\\Caesar Cryptography.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
